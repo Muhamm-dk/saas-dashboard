@@ -1,0 +1,27 @@
+{
+  "Lead Scoring": {
+    "Model": "Random Forest",
+    "ROC-AUC": 0.830901934623082,
+    "Features": [
+      "Discount",
+      "Quantity",
+      "customer_lifetime_value",
+      "purchase_frequency",
+      "product_diversity",
+      "Region_encoded",
+      "Segment_encoded",
+      "Industry_encoded",
+      "Product_encoded"
+    ]
+  },
+  "Segmentation": {
+    "n_clusters": 4,
+    "silhouette_score": 0.22628920576517156,
+    "cluster_names": {
+      "0": "At-Risk/Low-Value",
+      "1": "High-Value Champions",
+      "2": "Steady Contributors",
+      "3": "Steady Contributors"
+    }
+  }
+}

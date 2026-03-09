@@ -12,7 +12,7 @@ AI-powered lead scoring and customer segmentation system for B2B SaaS companies.
 ## 📊 Model Performance
 
 - Lead Scoring ROC-AUC: 0.85+
-- Customer Segments: 5 validated personas
+- Customer Segments: 4 validated personas
 - Training Data: 9,994 B2B SaaS transactions
 
 ## 🚀 Live Demo

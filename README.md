@@ -14,7 +14,7 @@ Built using machine learning on 9,994 real sales transactions ($2.3M revenue).
 ### ✨ Features
 
 - **Lead Scoring**: Predict high-value deals (0-100 score) with 85% accuracy
-- **Customer Segmentation**: Identify 5 actionable customer personas
+- **Customer Segmentation**: Identify 4 actionable customer personas
 - **Batch Processing**: Score hundreds of leads simultaneously
 - **Interactive Dashboard**: Real-time predictions with business recommendations
 
@@ -23,8 +23,8 @@ Built using machine learning on 9,994 real sales transactions ($2.3M revenue).
 | Model | Metric | Score | Status |
 |-------|--------|-------|--------|
 | Lead Scoring | ROC-AUC | 0.85+ | ✅ Exceeds target |
-| Segmentation | Silhouette | 0.24 | ✅ Good separation |
-| Segments | Count | 5 | ✅ Business validated |
+| Segmentation | Silhouette | 0.64 | ✅ Good separation |
+| Segments | Count | 4 | ✅ Business validated |
 
 ### 🎬 Demo
 

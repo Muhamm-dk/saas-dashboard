@@ -105,8 +105,8 @@ streamlit run app.py
 
 ### 📧 Contact
 
-**Project Author**: Muhammed K 
-**Institution**: Rajagiri College of Social Sciences 
+**Project Author**: Muhammed K  
+**Institution**: Rajagiri College of Social Sciences  
 **Supervisor**: Priyanka E Thambi
 
 ### 📄 License
